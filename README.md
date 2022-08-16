@@ -1,4 +1,5 @@
 nettisivuprojekti tavoitteet
--etusivu
 -verkkokauppa
 -ostoskori
+-palaute
+-yhteystiedot
