@@ -1,1 +1,4 @@
-# github1
+nettisivuprojekti tavoitteet
+-etusivu
+-verkkokauppa
+-ostoskori
